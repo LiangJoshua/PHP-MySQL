@@ -25,11 +25,11 @@ In this lesson, you will use the $_Get parameters from the url along with the co
 #### Lesson 8:
 In this lesson, you will create a program that displays the even numbers by using an array that loops through using the for loop. You will also change the case study gents.php file so that rather than doing duplicating code 3 times... you will use a foreach loop to loop through an array and print out each line to the screen using one set of code. 
 
-### Lesson 9:
+#### Lesson 9:
 In this lesson, you will set a variable to global and use super globals to display information about your server.
 
-### Lesson 10:
+#### Lesson 10:
 In this lesson, you will set up a case study so that it can handle functions and you will create a function for loading the content which you will then able to reload to add additional content in a different place. 
 
-### Lesson 11:
+#### Lesson 11:
 In this lesson, you will create a form that allows people to enter a temperature and then convert it from fahrenheit to celsius or celsius to fahrenheit. 
