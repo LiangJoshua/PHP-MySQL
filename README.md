@@ -38,4 +38,4 @@ In this lesson, you will create a form that allows people to enter a temperature
 In this lesson, you will analyze the aboutus page to see what properties, pieces of information, or facts about the contacts of what you will need to create a class and about what methods some actions you might want to perform for the particular contacts.
 
 #### Lesson 13: Defining Classes
-In this lesson, you will 
+In this lesson, you will create a contact class for the contacts that appear on the aboutus page in the case study. You will have a chance to add in the properties and the methods to this blueprint that will be used to create objects in the later lessons.
