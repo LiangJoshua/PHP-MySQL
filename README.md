@@ -39,3 +39,9 @@ In this lesson, you will analyze the aboutus page to see what properties, pieces
 
 #### Lesson 13: Defining Classes
 In this lesson, you will create a contact class for the contacts that appear on the aboutus page in the case study. You will have a chance to add in the properties and the methods to this blueprint that will be used to create objects in the later lessons.
+
+#### Lesson 14: Using Classes
+In this lesson, you will replace the static html code on the aboutus page with objects for each of the contacts. You will also have a chance to use the __construct method in the contact class to see how you could automatically load all of the properities for that particular object.
+
+### Lesson 15: Using Advanced Techniques
+In this lesson, you will improve the case study by adding autoloading of the classes. You will also change the scope of the properties in the contact class to make them protected and create the appropriate getter methods to access those protected properties. 
