@@ -45,3 +45,6 @@ In this lesson, you will replace the static html code on the aboutus page with o
 
 #### Lesson 15: Using Advanced Techniques
 In this lesson, you will improve the case study by adding autoloading of the classes. You will also change the scope of the properties in the contact class to make them protected and create the appropriate getter methods to access those protected properties. 
+
+#### Lesson 16: Handling Errors
+In this lesson, you will add error checking to the case study. You will check for the existence of the image files in the display of the gents and you will also add a try catch block around the autoloading of the classes.
