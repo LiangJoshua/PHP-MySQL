@@ -48,3 +48,15 @@ In this lesson, you will improve the case study by adding autoloading of the cla
 
 #### Lesson 16: Handling Errors
 In this lesson, you will add error checking to the case study. You will check for the existence of the image files in the display of the gents and you will also add a try catch block around the autoloading of the classes.
+
+#### Lesson 17: Writing Secure Code
+In this lesson, you will add index.html files to all the folders in the case study. You will also create a form that generates a token and then checks to make sure that it has a valid token before it processes that form. 
+
+#### Lesson 18: Introducing Databases
+In this lesson, you will design three database tables that we need for the case study website. Those are the contacts, the categories, and the lots. 
+
+#### Lesson 19: Introducing MySQL
+In this lesson, you will create the database that you will be using for the casestudy smithside and you will create the first table into that database called contacts and load it with that information.
+
+#### Lesson 20: Creating and Connecting to the Database
+In this lesson, you will create a database class for the case study.It will hold a mysqli objected oriented type of connection to the database. If you connect to the database sucessfully, you should be able to show a message on the case study homepage that shows that you were connected.
