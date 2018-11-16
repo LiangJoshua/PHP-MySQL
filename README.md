@@ -60,3 +60,9 @@ In this lesson, you will create the database that you will be using for the case
 
 #### Lesson 20: Creating and Connecting to the Database
 In this lesson, you will create a database class for the case study.It will hold a mysqli objected oriented type of connection to the database. If you connect to the database sucessfully, you should be able to show a message on the case study homepage that shows that you were connected.
+
+#### Lesson 21: Creating Tables
+In this lesson, you will create the tables for the lots and the lot categories and you will also create the corresponding classes for them. In addition, you will go back to the class for the contacts and add in the missing table field into that class.
+
+#### Lesson 22: Entering Data
+In this lesson, you will add a form so that you can add contacts in your case study. You will also get a chance to go through some debugging to see how you would find errors when things are not working how you expect them to go.
