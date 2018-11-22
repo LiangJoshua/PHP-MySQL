@@ -20,7 +20,7 @@ In this lesson, you will debug some code and look at the Xdebug that's available
 In this lesson, you will change the numeral variables that we have in the gents.php file into a nested array that consists of a numerical array at the higher level... followed by a nested array that is associated using named keys. 
 
 #### Lesson 7: Making Decisions
-In this lesson, you will use the $_Get parameters from the url along with the conditional statements that you learned earlier in this lesson to create a dynamic menuing system that tells the program what kind of content to display.
+In this lesson, you will use the $\_Get parameters from the url along with the conditional statements that you learned earlier in this lesson to create a dynamic menuing system that tells the program what kind of content to display.
 
 #### Lesson 8: Repeating Program Steps
 In this lesson, you will create a program that displays the even numbers by using an array that loops through using the for loop. You will also change the case study gents.php file so that rather than doing duplicating code 3 times... you will use a foreach loop to loop through an array and print out each line to the screen using one set of code. 
