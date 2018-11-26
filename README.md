@@ -70,5 +70,8 @@ In this lesson, you will add a form so that you can add contacts in your case st
 #### Lesson 23: Selecting Data
 In this lesson, you will learn to retrieve data from the case study database and you'll use it to populate the website in particular in the aboutus page and in the lot categories page. You'll also be able to use it to create the side menu so that it will go out to the database and create the menu base based on what it found there.
 
-#### Lesson 24: Using Multiple tables
+#### Lesson 24: Using Multiple Tables
 In this lesson, you will join multiple tables together by using the MySQL command select with the join clause. You will do it first in phpMyAdmin, and once those commands are successful, you will move those commands over to PHP.
+
+#### Lesson 25: Changing Data
+In this lesson, you will add maintenance to the contacts table in the case study. You will modify the add pages for the contacts so that you could edit those contacts using the same form to create new contacts.
