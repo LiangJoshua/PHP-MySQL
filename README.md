@@ -75,3 +75,6 @@ In this lesson, you will join multiple tables together by using the MySQL comman
 
 #### Lesson 25: Changing Data
 In this lesson, you will add maintenance to the contacts table in the case study. You will modify the add pages for the contacts so that you could edit those contacts using the same form to create new contacts.
+
+#### Lesson 26: Deleting Data
+In this lesson, you will add delete capabilities to the aboutus page by adding delete buttons and a confirmation page.
