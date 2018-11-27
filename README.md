@@ -78,3 +78,8 @@ In this lesson, you will add maintenance to the contacts table in the case study
 
 #### Lesson 26: Deleting Data
 In this lesson, you will add delete capabilities to the aboutus page by adding delete buttons and a confirmation page.
+
+#### Lesson 27: Preventing Database Security Issues
+In this lesson, you will test the case study for certain vulnerabilities. You have been following the best practice guidelines as you have been creating the case study, but this shows that sometimes you can miss things and that it's good practice to test what you've done.
+
+#### Lesson 28: Creating User Logins
