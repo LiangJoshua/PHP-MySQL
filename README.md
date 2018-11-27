@@ -83,3 +83,4 @@ In this lesson, you will add delete capabilities to the aboutus page by adding d
 In this lesson, you will test the case study for certain vulnerabilities. You have been following the best practice guidelines as you have been creating the case study, but this shows that sometimes you can miss things and that it's good practice to test what you've done.
 
 #### Lesson 28: Creating User Logins
+In this lesson, you will add a simple ACL system to the case study. You will use this to restrict add, edit, and delete functions to the administrators. 
