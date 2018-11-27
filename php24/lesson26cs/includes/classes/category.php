@@ -135,6 +135,7 @@ class Category
   static public function getCategories() {
     // clear the results
     $items = '';
+    $items = array();
     // Get the connection 
     $connection = Database::getConnection();
     // Set up the query
