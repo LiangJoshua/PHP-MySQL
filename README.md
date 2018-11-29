@@ -87,3 +87,6 @@ In this lesson, you will add a simple ACL system to the case study. You will use
 
 #### Lesson 29: Turning the Case Study into a content Management System
 In this lesson, you will learn how to setup a small content management system by creating a table that will contain the content pages that you could display on your website as individual pages. You will also learn about how to extend a class by creating a parent class that will contain the common code.
+
+#### Lesson 30: Creating a Dynamic Menu
+In this lesson, you will create a dynamic menu that reads its links from a table in the database. By doing this you will be able to add and delete menu options from the website itself instead of having to change php files. This works well with the mini content management system that we did in the prior lesson, because now whenever you create an article, you can then just go to someplace on the website to create a link for that article.
